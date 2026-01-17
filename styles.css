@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    font-family: "Lucida Console", sans-serif;
+    border: px solid red;
+    background-color: white;
+    opacity: 1;
+    margin: 10px;
+}
+
+.title,
+.header {
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    text-decoration: underline;
+}
+
+
+.list-font-adjust {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.list-border {
+    border: 2px dashed black;
+}
+
+.header {
+    font-size: 20px;
+}
+
+
+p {
+    font-size: 16px;
+    margin: 10px 10px;
+}
+
+img {
+    height: auto;
+    width: 200px;
+    border: 2px solid black;
+    display:block;
+    margin: 10px auto;
+}
+
